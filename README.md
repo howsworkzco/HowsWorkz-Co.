@@ -1,2 +1,2 @@
-# HowsWorkz-Co.
-A Roblox horror game developed by UTS Studios.
+——-
+This repository is for the scripts used in the horror game.
